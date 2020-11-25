@@ -76,3 +76,6 @@ var BuiltinSwearWords = map[string]bool{
 	"pu55y":       true,
 	"pen1s":       true,
 }
+	"kontol":      true,
+	"memek":       true,
+	"ngentot":     true,
